@@ -2,7 +2,7 @@
     "$schema": "https://stack.skycapp.com/stack.schema.json",
     "title": "Foundry Hosted CDex Provider FHIR Stack Controller",
     "instructions": "Load the default provider server records.",
-    "fhir_base_url": "https://cdex-provider-server.davinci.hl7.org/fhir/",
+    "fhir_base_url": "https://cdex-provider-server.davinci.hl7.org/fhir",
     "driver": "hapi",
     "links": [
         {
@@ -23,7 +23,7 @@
         },
         {
             "name": "Payer HAPI FHIR Base URL",
-            "url": "https://cdex-payer-server.davinci.hl7.org/fhir/"
+            "url": "https://cdex-payer-server.davinci.hl7.org/fhir"
         },
         {
             "name": "Provider HAPI FHIR (R4 Mode)",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Provider HAPI FHIR Base URL",
-            "url": "https://cdex-provider-server.davinci.hl7.org/fhir/"
+            "url": "https://cdex-provider-server.davinci.hl7.org/fhir"
         }
     ],
     "data": [
