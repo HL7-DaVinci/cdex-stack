@@ -40,7 +40,8 @@
             "load": true,
             "name": "Payer Bundle",
             "description": "CDex sample payer resources.",
-            "type": "Example"
+            "type": "Example",
+            "priority": 0
         }
     ]
 }

@@ -40,7 +40,8 @@
             "load": true,
             "name": "Provider Bundle",
             "description": "CDex sample provider resources.",
-            "type": "Example"
+            "type": "Example",
+            "priority": 0
         }
     ]
 }
