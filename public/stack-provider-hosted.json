@@ -36,7 +36,7 @@
     ],
     "data": [
         {
-            "file": "provider.bundle.json",
+            "file": "https://raw.githubusercontent.com/HL7-DaVinci/cdex-stack/refs/heads/master/public/provider.bundle.json",
             "load": true,
             "loader": "fhir-bundle",
             "name": "Provider Bundle",
