@@ -38,9 +38,11 @@
         {
             "file": "payer.bundle.json",
             "load": true,
+            "loader": "fhir-bundle",
             "name": "Payer Bundle",
             "description": "CDex sample payer resources.",
-            "type": "Example"
+            "type": "Example",
+            "priority": 1
         }
     ]
 }

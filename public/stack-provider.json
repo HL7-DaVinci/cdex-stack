@@ -38,10 +38,11 @@
         {
             "file": "provider.bundle.json",
             "load": true,
+            "loader": "fhir-bundle",
             "name": "Provider Bundle",
             "description": "CDex sample provider resources.",
             "type": "Example",
-            "priority": 0
+            "priority": 1
         }
     ]
 }
